@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "10dXL", "10dXL.vbproj", "{E36DF549-F711-4C6D-87B0-4D587D432EE4}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApplication1", "E:\10dXL\ConsoleApplication1.vbproj", "{CCD60FDF-7964-4D07-A25D-0B76C6CF1B89}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup10dXL", "..\Setup10dXL\Setup10dXL\Setup10dXL.vdproj", "{6FE0B552-3B0B-45F0-88E8-D080F09F5ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E36DF549-F711-4C6D-87B0-4D587D432EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E36DF549-F711-4C6D-87B0-4D587D432EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E36DF549-F711-4C6D-87B0-4D587D432EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E36DF549-F711-4C6D-87B0-4D587D432EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCD60FDF-7964-4D07-A25D-0B76C6CF1B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCD60FDF-7964-4D07-A25D-0B76C6CF1B89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCD60FDF-7964-4D07-A25D-0B76C6CF1B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCD60FDF-7964-4D07-A25D-0B76C6CF1B89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FE0B552-3B0B-45F0-88E8-D080F09F5ADC}.Debug|Any CPU.ActiveCfg = Debug
+		{6FE0B552-3B0B-45F0-88E8-D080F09F5ADC}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65B4F81B-636E-4515-9B28-0C39C7C85E19}
+	EndGlobalSection
+EndGlobal
