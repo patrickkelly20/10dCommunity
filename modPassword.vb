@@ -120,7 +120,7 @@ Module modPassword
             strLineNum = "1 -Path.GetTempFileName()"
             Dim strNewFileName As String = Path.GetTempFileName() '1
             'create the password key
-            Dim strSaltKey As String = "Love one another + Granny"
+            Dim strSaltKey As String = "Love one anoth3r + "
             Dim saltValueBytes As Byte()
             If String.Empty = strSalt Then
                 saltValueBytes = System.Text.Encoding.ASCII.GetBytes(strSaltKey)
